@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Poetry">
         <activity
+            android:name=".PoetryActivity"
+            android:exported="true" />
+        <activity
             android:name=".StartActivity"
             android:exported="true" />
         <activity

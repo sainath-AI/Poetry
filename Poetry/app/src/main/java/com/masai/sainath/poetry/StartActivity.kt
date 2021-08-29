@@ -5,7 +5,6 @@ import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.masai.sainath.poetry.databinding.ActivityMainBinding
 import com.masai.sainath.poetry.databinding.ActivityStartBinding
 import android.widget.Toast
 

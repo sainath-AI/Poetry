@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885333627076",
+    "project_id": "the-poetry-47ea6",
+    "storage_bucket": "the-poetry-47ea6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885333627076:android:92ded090383dea7e69f991",
+        "android_client_info": {
+          "package_name": "com.masai.sainath.poetry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885333627076-5lp04dl59jinjik0akhps240pl0b2uk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjTZjgEN0nh6m3Di2ewKyQJ3IIJo5wQ2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885333627076-5lp04dl59jinjik0akhps240pl0b2uk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
